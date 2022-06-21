@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @drinkpimp
+- 👀 I’m interested in AWS, DevOps, MLOps
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on stuff and things
+- 📫 Mailbox currently unavailable
